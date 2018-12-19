@@ -1,5 +1,11 @@
 # Instructiuni generale
 
+Cloneaza repo-ul folosind comanda
+
+```
+git clone https://github.com/webtech-superheroes/exam-prep.git
+```
+
 Navigheaza in directorul subiectului folosind comanda ```cd```
 
 Exemplu:
