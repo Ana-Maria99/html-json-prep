@@ -1,3 +1,5 @@
+# TODO
+
 Realizeaza un CV in fromat JSON care contine urmatoarea structura
 
 * name - string
