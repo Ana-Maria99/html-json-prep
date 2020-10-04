@@ -3,7 +3,7 @@
 Cloneaza repo-ul folosind comanda
 
 ```
-git clone https://github.com/webtech-superheroes/exam-prep.git
+git clone https://github.com/webtech-superheroes/html-json-prep.git
 ```
 
 Navigheaza in directorul subiectului folosind comanda ```cd```
@@ -14,7 +14,7 @@ Exemplu:
 cd s1
 ```
 
-Citeste instructiunile descrise in fisierul ***instructiuni.md***
+Citeste instructiunile descrise in fisierul ***TODO.md***
 
 Executa comanda ```npm install``` pentru a descarca modulele 
 
