@@ -3,7 +3,7 @@
 Cloneaza repo-ul folosind comanda
 
 ```
-git clone https://github.com/webtech-superheroes/html-json-prep.git
+git clone [adresa_repo]
 ```
 
 Navigheaza in directorul subiectului folosind comanda ```cd```
